@@ -1,0 +1,12 @@
+{
+  "name": "360-branding",
+  "version": "1.0.0",
+  "description": "360xRunning brand identity skill. Transforms any asset into branded output: presentations (TED, clients, internal), social media, event invitations, web, and ads. Includes StoryBrand 2.0 narrative frameworks, logo SVGs, and category icons.",
+  "author": {
+    "name": "360xRunning",
+    "url": "https://github.com/thinksid"
+  },
+  "repository": "https://github.com/thinksid/360-branding-skill",
+  "keywords": ["branding", "360xrunning", "presentations", "social-media", "design"],
+  "skills": "./skills/"
+}
